@@ -37,6 +37,9 @@ Energyintensityper_capita - Es la medida de la ineficiencia energética de esa e
 Energyintensityby_GDP- Es la medida de la ineficiencia energética de esa economía, medida por el PBIy. (1000 Btu/GDP)
 CO2_emission - Emisiones de CO2 (Millones toneladas CO2)
 
+- Global power plant database. Buena base de datos con la localizacion y tipo de planta generadora de electricidad, representa la mayoria de la capacidad global.
+- Our World in Data. Consumo de energía primaria, divididos por fuente, por país y por año (carbon, biocombustible, nuclear, etc).
+
 - Electricity Map que ubica la generación de CO2 global (como modelo de inspiración de lo que deberían lograr)
 https://static.electricitymap.org/api/docs/index.html
 
